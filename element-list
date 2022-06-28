@@ -1,0 +1,7 @@
+org.moon.figura.lua.api
+org.moon.figura.lua.api.entity
+org.moon.figura.lua.api.keybind
+org.moon.figura.lua.api.math
+org.moon.figura.lua.api.model
+org.moon.figura.lua.api.nameplate
+org.moon.figura.lua.api.world
